@@ -67,4 +67,5 @@ def get floor_type():
         return 0
 
 def generate_map():
+    pass
 
